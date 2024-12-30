@@ -6,4 +6,4 @@ const store= configureStore( {
         customers: customerReducer
     }
 })
-export default store;
+export def
